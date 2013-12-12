@@ -22,4 +22,4 @@ Otro tema a tratar fue el tema de ser emprendedores. Es un tema que esta muy de 
 
 ###Conclusión
 
-	En mi opinión fue una charla muy útil, en la que hemos tenido la oportunidad de ver como se pueden usar herramientas de Google para crear software. Sin preocuparnos de cosas como el hardware que necesitamos, si es es escalable etc. Además hemos conocido las propiedades de "Google app engine", los lenguajes que se pueden usar, Google Cloud Storage...
+*En mi opinión fue una charla muy útil, en la que hemos tenido la oportunidad de ver como se pueden usar herramientas de Google para crear software. Sin preocuparnos de cosas como el hardware que necesitamos, si es es escalable etc. Además hemos conocido las propiedades de "Google app engine", los lenguajes que se pueden usar, Google Cloud Storage...*
