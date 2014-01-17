@@ -20,7 +20,6 @@ Partición3: Ubuntu
 > Ejercicio 2
 
 >>Usar FUSE para acceder a recursos remotos como si fueran ficheros locales. Por ejemplo, sshfs para acceder a ficheros de una máquina virtual invitada o de la invitada al anfitrión.
-![]()
 Para esto vamos a utilizar alguna de las máquinas usadas anteriormente. En este caso una máquina creada con wmware que uso para otra asignatura. Esta también tiene ubuntu. Después de instalar en esta máquina fuse y demás cosas necesarias. Tambien lo tenemos que instalar en la maquina desde la que queremos hacer sshfs.
 
 ![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%204%20Ejercicios/Imagenes%20Almacenamiento/Install%20fuse%20y%20mas%20En%20SCD.png?raw=true)
@@ -122,8 +121,8 @@ Una vez que hemos realizado esto tenemos que ejecutar el siguiente comando:
 
 	sudo npm install -g azure-cli
 
-Despues de esto tenemos que configurar nuestra cuenta. Para esto primero ejecutamos: 
-![]()
+Despues de esto tenemos que configurar nuestra cuenta. Para esto primero ejecutamos:  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%204%20Ejercicios/Imagenes%20Almacenamiento/Ej%208%20account%20download.png?raw=true)
 
 y despues usamos:	
 
