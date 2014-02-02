@@ -132,6 +132,16 @@ y despues usamos:
 
 >>Crear varios contenedores en la cuenta usando la línea de órdenes para ficheros de diferente tipo y almacenar en ellos las imágenes en las que capturéis las pantallas donde se muestre lo que habéis hecho.
 
+Como este ejercicio ya ha sido realizado despues de realizar la práctica 3, en la que hemos necesitado una máquina virtual en azure, la cuenta de almacenamiento ya esta creada. Asi que desde la interfaz web accedemos para ver las claves y configurarlas.
+
+Después de esto creamos diferentes contenedores. En este caso, he creado uno privado y uno público.  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%204%20Ejercicios/Imagenes%20Almacenamiento/creacion%20taper%20publico.png)  
+
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%204%20Ejercicios/Imagenes%20Almacenamiento/crear%20container%20ejericio%209-1.png?raw=true)  
+
+Aquí podemos ver como se sube con exito la imagen a el contenedor público.  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%204%20Ejercicios/Imagenes%20Almacenamiento/Subidos%20blob.png?raw=true)  
+
 >Ejercicio 10
 
 >>Desde un programa en Ruby o en algún otro lenguaje, listar los blobs que hay en un contenedor, crear un fichero con la lista de los mismos y subirla al propio contenedor. Muy meta todo.
