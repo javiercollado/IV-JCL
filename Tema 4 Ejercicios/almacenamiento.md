@@ -5,13 +5,13 @@ Tema 4 : Almacenamiento
 
 >>¿Cómo tienes instalado tu disco duro? ¿Usas particiones? ¿Volúmenes lógicos?
 
-Depende del ordenador. Normalmente, en el que uso linux:
-Partición1: Windows
-Partición2: Datos
-Partición3: Ubuntu
-	Partición lógica para /
-	Partición lógica para /home
-	Partición lógica para swap
+Depende del ordenador. Normalmente, en el que uso linux:  
+Partición1: Windows  
+Partición2: Datos  
+Partición3: Ubuntu  
+  - Partición lógica para /
+  - Partición lógica para /home
+  - Partición lógica para swap
 
 >>Si tienes acceso en tu escuela o facultad a un ordenador común para las prácticas, ¿qué almacenamiento físico utiliza?
 	Sistema remoto de archivos.
