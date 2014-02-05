@@ -53,7 +53,7 @@ Añadimos endpoint:
 ![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/A%C3%B1adir%20endpoint%20http.png?raw=true)
 
 Entramos a la dirección:
-![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/funciona%20nginx.png)  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/funciona%20nginx.png?raw=true)  
 
 >6 Usar juju para hacer el ejercicio anterior.
 
