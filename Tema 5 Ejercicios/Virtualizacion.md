@@ -29,8 +29,35 @@ Aunque finalmente creamos otro disco ejercicio2.img en qcow2 para instalar slita
 >4 Crear una máquina virtual Linux con 512 megas de RAM y entorno gráfico LXDE a la que se pueda acceder mediante VNC y ssh.  
 ![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/4%20crear%20disco.png?raw=true)  
 
+Despues de crear el disco (Esta creado en otra maquina, pero el proceso es igual en la máquina con ubuntu en la que finalmente se ha realizado el ejercicio), instalamos la maquina virtual normalmente. 
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/install%20lxde.png?raw=true)  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Instalando%20LXDE%20instalacion.png?raw=true)  
+Una vez creada, tenemos que iniciarla con las opciones necesarias para conectar por vnc. Como vemos en la siguiente imagen.  
+
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Encender%20para%20VNC.png?raw=true)    
+A continuacion tenemos que ver cual es la IP de la máquina. ifconfig...  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/ifconfig%20para%20ip%20lxde.png?raw=true)  
+Y finalmente ya podemos conectarnos con vinagre:  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/instalar%20vinagre.png?raw=true)  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Conectado%20desde%20vinagre.png?raw=true)
+
+
 >5 Crear una máquina virtual ubuntu e instalar en ella un servidor nginx para poder acceder mediante web.
+
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Crear%20VM%20azure.png?raw=true) 
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Instalr%20nginx%20azure.png?raw=true)  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/funciona%20nginx.png)  
 
 >6 Usar juju para hacer el ejercicio anterior.
 
 >7 Instalar una máquina virtual Ubuntu 12.04 para el hipervisor que tengas instalado.
+
+Primero instalamos lo que necesitamos
+	sudo apt-get install ubuntu-vm-builder kvm virt-manager
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/ejer%207%201.png?raw=true)  
+Despues ejecutamos el siguiente comando para crear la máquina:
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/7%20.png?raw=true)  
+
+Aqui podemos ver la máquina funcionando:
+
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Funciona%207.png?raw=true)  
