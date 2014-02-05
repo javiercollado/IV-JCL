@@ -43,9 +43,16 @@ Y finalmente ya podemos conectarnos con vinagre:
 
 
 >5 Crear una máquina virtual ubuntu e instalar en ella un servidor nginx para poder acceder mediante web.
-
+Creamos máquina:  
 ![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Crear%20VM%20azure.png?raw=true) 
+
+Instalamos NGINX:   
 ![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/Instalr%20nginx%20azure.png?raw=true)  
+
+Añadimos endpoint:
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/A%C3%B1adir%20endpoint%20http.png?raw=true)
+
+Entramos a la dirección:
 ![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%205%20Ejercicios/ImagenesT5/funciona%20nginx.png)  
 
 >6 Usar juju para hacer el ejercicio anterior.
