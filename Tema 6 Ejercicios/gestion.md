@@ -32,7 +32,7 @@ La receta es esta, que instalara nginx, geany y creara el directorio y el ficher
 	end
 
 Demostración de que se ejecuta correctamente:  
-![]()  
+![](https://github.com/javiercollado/IV-JCL/blob/master/Tema%206%20Ejercicios/Imagenes/Funciona%20receta%202.png?raw=true)  
 
 >3 Escribir en YAML la siguiente estructura de datos en JSON
 	
